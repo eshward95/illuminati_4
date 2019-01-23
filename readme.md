@@ -1,1 +1,1 @@
-
+Our team is implementing a webpage for predicting placement results for students seeking jobs . To acheive this we will be deploying machine learning algorithms such KNN,logistic regression,suport vector machine
