@@ -13,10 +13,10 @@ To achieve this we will be deploying machine learning algorithms such as KNN,Log
 ![alt text](https://github.com/eshward95/illuminati_4/blob/master/login.JPG)
 3. Placement Page
 ![alt text](https://github.com/eshward95/illuminati_4/blob/master/predictor.JPG)
-## Contributing
+## Contributions
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
 
-## Screenshots
-![alt text](https://github.com/eshward95/illuminati_4/blob/master/login.JPG)
+## Working Example
+![alt text](https://github.com/eshward95/illuminati_4/blob/master/example.JPG)
