@@ -7,9 +7,9 @@ Our team is implementing a webpage for predicting placement results for students
 To achieve this we will be deploying machine learning algorithms such as KNN,Logistic regression, support vector machine.
 
 ## Usage
-1. Get Started
-![alt text]https://github.com/eshward95/illuminati_4/blob/master/FrontPage.JPG)
-2. 
+## Screenshots
+![alt text](https://github.com/eshward95/illuminati_4/blob/master/login.JPG)
+
 
 
 
