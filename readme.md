@@ -8,7 +8,7 @@ To achieve this we will be deploying machine learning algorithms such as KNN,Log
 
 ## Usage
 ## Screenshots
-![alt text](https://github.com/eshward95/illuminati_4/blob/master/login.JPG)
+![alt text](https://github.com/eshward95/illuminati_4/blob/master/FrontPage.JPG))
 
 
 
