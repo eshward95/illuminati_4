@@ -20,7 +20,7 @@ In this study , we collected the students' data based on their performance in qu
 ![alt text](https://github.com/eshward95/illuminati_4/blob/master/predictor.JPG)
 
 ## Arguements passed
-pythonapp.py
+python app.py
 
  ## Technology Stack
 1.python
