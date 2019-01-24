@@ -30,8 +30,11 @@ python app.py
 
 ## Dependencies
 1.Numpy
+
 2.pandas
+
 3.dataset
+
 4.PC
 
 ## Future optimizations
